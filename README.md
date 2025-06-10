@@ -3,8 +3,8 @@ Cold email generator for services company using groq, langchain and streamlit. I
 
 **Imagine a scenario:**
 
-- Joy needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
-- Alate is Software Development company can provide a dedicated software development engineer to Joy. So, the business development executive (Rohan) from Alate is going to reach out to Joy via a cold email.
+- Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
+- Alate is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Alate is going to reach out to Nike via a cold email.
 
 ![img.png](image/img.png)
 
